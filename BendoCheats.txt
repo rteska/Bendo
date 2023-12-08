@@ -1,0 +1,16 @@
+Cheats:
+	Ctrl + E == Jump to bad end
+	Ctrl + G == Jump to good end
+
+Puzzle Answers:
+	Toy Key --> Toy Box
+	Pet Collar --> Dresser
+	Car Keys --> Red Car
+	Broth, Lamb Plushie, Plastic Carrot --> Pot
+	11th Birthday Card --> Doll Section Spot
+	12th Birthday Card --> Toy Car Section Spot
+	13th Birthday Card --> Train Section Spot
+	Safety Scissors --> Vines
+	Wire Cutters --> Wires
+	Vial of Acid --> Bars
+	Padlock Key --> Padlock
