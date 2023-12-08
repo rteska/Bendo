@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ToyKey
+  - ToyBox
+  - SafetyScissors
+  - CarKeys
+  - LambPlushie
+  - PlasticCarrot
+  - 13thBD
+  - 12thBD
+  - 11thBD
+  - 10thBD
+  - CarIncidentReport
+  - ChickenBroth
+  - PetCollar
+  - ToyStoreReceipt
+  - WireCutters
+  - PoliceReports
+  - BendoToyFlyer
+  - RestaurantIncidentReport
+  - BendoToy
+  - PadlockKey
+  - Door
+  - Vines
+  - Wires
+  - Acid
+  - Bars
+  - Padlock
+  - Dresser
+  - Bed
+  - Desk
+  - Chair
+  - Nightstand
+  - DeskLamp
+  - FloorLamp
+  - Blazewheel
+  - CallieDoll
+  - Bedroom
+  - BloodStain
+  - CrashedCar
+  - Trunk
+  - ConeLine
+  - Pot
+  - Statue
+  - ToppledStatue
+  - ToppledPot
+  - DollToySection
+  - CarToySection
+  - MiscToySection
+  - BendoDisplay
+  - BendoSpot
+  - CarShelf
+  - DisplayTable
+  - DollShelf
+  - FrontDesk
+  - Jenga
+  - MiscShelf
+  - Dartboard
+  - PlaneFunny
+  - FinalText
+  - Timer
+  - CounterFlap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pickup
+  - Interactable
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

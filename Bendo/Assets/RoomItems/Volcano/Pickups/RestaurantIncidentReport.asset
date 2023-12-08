@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed3f00c06786ab54a9bf473244249377, type: 3}
+  m_Name: RestaurantIncidentReport
+  m_EditorClassIdentifier: 
+  itemName: Restaurant Incident Report
+  icon: {fileID: 0}
+  associatedObj: {fileID: 0}
+  usedFor: Nothing
+  tag: RestaurantIncidentReport
+  hasItem: 0
+  description: '"On August 15th, xxxx, a kitchen assistant slipped on a puddle of
+    grease while holding a hot pot of lamb-carrot soup. She is on leave until further
+    notice, but considering she got put into a coma from the fall, she will probably
+    be let go within the week."'

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed3f00c06786ab54a9bf473244249377, type: 3}
+  m_Name: BendoToyFlyer
+  m_EditorClassIdentifier: 
+  itemName: Bendo Toy Flyer
+  icon: {fileID: 0}
+  associatedObj: {fileID: 0}
+  usedFor: Nothing
+  tag: BendoToyFlyer
+  hasItem: 0
+  description: '"Bend''em, Pose''em, Twist''em! Enjoy this unique type of action
+    figure today for only $24.99! Some accessories sold separately"'

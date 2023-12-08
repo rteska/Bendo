@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed3f00c06786ab54a9bf473244249377, type: 3}
+  m_Name: 12thBirthdayCard
+  m_EditorClassIdentifier: 
+  itemName: 12th Birthday Card
+  icon: {fileID: 0}
+  associatedObj: {fileID: 0}
+  usedFor: CarToySection
+  tag: 12thBD
+  hasItem: 0
+  description: '"Happy 12th sib! I know things have been a bit rough this year, but
+    just know that I''ll be there for you! ...Well not today since I have to work
+    (sad) but still! I hope you have a better day this year and enjoy the Blazewheel
+    I got you! -Love, your sister"'

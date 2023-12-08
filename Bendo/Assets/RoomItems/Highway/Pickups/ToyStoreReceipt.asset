@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed3f00c06786ab54a9bf473244249377, type: 3}
+  m_Name: ToyStoreReceipt
+  m_EditorClassIdentifier: 
+  itemName: Toy Store Receipt
+  icon: {fileID: 0}
+  associatedObj: {fileID: 0}
+  usedFor: Nothing
+  tag: ToyStoreReceipt
+  hasItem: 0
+  used: 0
+  description: "\"Thank you for shopping today on August 14th, xxxx! you bought:\n\tx1
+    Bunny Plushie - $15\n\tx1 Carrot toy - $5\n\tx1 Pack of Colored Pencils - $6\n\t\t\tTotal:
+    $26\nEnjoy your day!\"\n\nThis was 3 years ago..."
